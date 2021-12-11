@@ -1,3 +1,3 @@
-import http from "http"
+import { Launch } from "./server"
 
-console.log("Hello world")
+Launch(4242)
