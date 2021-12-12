@@ -3,7 +3,7 @@
 <h2>🏆 Goal</h2>
 Creation of an FTP server and client.
 <br><br>
-Here the statement : https://github.com/Gi-jutsu/myftp
+Here the statement : https://github.com/Gi-jutsu/myftp 📚
 
 <h2>🏁 To start</h2>
 After downloading or cloning the project :
